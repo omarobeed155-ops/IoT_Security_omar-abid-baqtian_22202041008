@@ -73,5 +73,4 @@ All theoretical questions (Q1–Q25) were written **by hand** and included in th
 
 ---
 
-# 📁 Repository Structure
 

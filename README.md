@@ -5,7 +5,7 @@
 ---
 
 ## 📌 Student Information
-- **Name:** Omar Abid Baqtian  
+- **Name:** Omar Abaid Baqtian  
 - **Enrollment Number:** 22202041008  
 - **Email:** omarbaqtian@gmail.com 
 
